@@ -1,30 +1,39 @@
-<h1 align="center">欢迎来到我们的工作室！</h1>
+<h1 align="center">kldhsh123 旧作品占位工作室</h1>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c1aad34f-3b41-46e0-91fe-b9d6f26e7490" alt="工作室Logo">
-
 </p>
 
-<p align="center">专注于WEB开发</p>
+<p align="center">Archive organization for previous works and collaborative projects by kldhsh123.</p>
 
 ---
 
-## About Us / 关于我们
+## About / 关于
 
-Welcome to our GitHub repository! 
-欢迎来到我们的GitHub仓库！
+This organization was previously used as a placeholder studio for works by **kldhsh123**.
 
----
+Most of the projects here are either older personal works or products developed in collaboration with others, and were mounted under this organization name for easier management at the time.
 
-## Contact / 联系方式
+This organization is now mostly inactive and no longer serves as the main project homepage.
 
-If you have any questions or just want to say hi, feel free to reach out!
+For current projects, updates, and contact information, please visit the personal GitHub profile of **kldhsh123** directly:
 
-如果您有任何问题或只是想打个招呼，请随时联系我们！
-
-- Email: [admin@kldhsh.top](mailto:admin@kldhsh.top)
-- GitHub: [https://github.com/kldhsh123](https://github.com/kldhsh123)
+👉 https://github.com/kldhsh123
 
 ---
 
-<p align="center">Thank you for visiting our GitHub page! 🚀</p>
+## 中文说明
+
+这是 **kldhsh123** 之前作品的占位工作室。
+
+这里的大部分项目是早期作品，或是与他人合作开发的产品，当时为了方便管理而挂载在该组织名下。
+
+目前此组织已基本废弃，不再作为主要项目主页使用。
+
+如需查看当前项目、最新动态或联系方式，请直接访问 **kldhsh123** 的个人 GitHub 主页：
+
+👉 https://github.com/kldhsh123
+
+---
+
+<p align="center">This organization is kept mainly for archival purposes.</p>
